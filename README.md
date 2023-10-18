@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Doz!
 
-👨‍💻 I'm a Junior DevOps Engineer with 5 years experience as an Automation Test consultant.
+👨‍💻 I'm a Junior DevOps Engineer with over 4 years experience as an Automation Test Consultant.
 
 🔭 Keen to work on interesting projects with people who are passionate about delivering quality.
 
