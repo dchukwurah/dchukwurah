@@ -107,7 +107,7 @@
 
 > *"Education is the most powerful weapon which you can use to change the world." - Nelson Mandela*
   
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=doz-chukwurah&theme=tokyonight" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dchukwurah&theme=tokyonight" />
 
 
 <!--
