@@ -20,6 +20,7 @@
 ### Skills and experience
 
 🚀 Project Management
+
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 
@@ -94,6 +95,7 @@
 
 
 📺 Fun Stuff 🎶 
+
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white)
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=plastic&logo=crunchyroll&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=plastic&logo=netflix&logoColor=white)
