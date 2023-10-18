@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm Doz!
 
 - 👨‍💻 I'm a Junior DevOps Engineer with 5 years experience as an automation test consultant.
-- 🔭 I'm exploring cloud platforms such as AWS and continuously improving my skills in IaC and CI/CD.
-- 🌱 I'm always eager to learn; currently I'm enhancing my skills in AWS, IaC and CI/CD.
+- 🔭 Keen to work on interesting projects with people who are passionate about delivering quality.
+- 🌱 I'm always eager to learn; currently enhancing my skills in AWS, IaC and CI/CD.
 - 💬 Ask me about anything related to the SDLC, Testing, DevOps, Agile and Scrum.
 - ⚡ Fun fact: I am a musician in my spare time!
 - 📫 Connect with me on:
