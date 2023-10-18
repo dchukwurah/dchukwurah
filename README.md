@@ -1,10 +1,15 @@
 ### 👋 Hi there, I'm Doz!
 
 👨‍💻 I'm a Junior DevOps Engineer with 5 years experience as an automation test consultant.
+
 🔭 Keen to work on interesting projects with people who are passionate about delivering quality.
+
 🌱 I'm always eager to learn; currently enhancing my skills in AWS, IaC and CI/CD.
+
 💬 Ask me about anything related to the SDLC, Testing, DevOps, Agile and Scrum.
+
 ⚡ Fun fact: I am a musician in my spare time!
+
 📫 Connect with me on:
 
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/chiedozie-chukwurah-6a6851a0/)
