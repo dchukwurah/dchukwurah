@@ -17,7 +17,7 @@
   
 ---
 
-### Skills and experience
+### Skills and Experience
 
 🚀 Project Management
 
