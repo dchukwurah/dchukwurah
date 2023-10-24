@@ -4,7 +4,7 @@
 
 🔭 Keen to work on interesting projects with people who are passionate about delivering quality.
 
-🌱 I'm always eager to learn; currently enhancing my skills in AWS, IaC and CI/CD.
+🌱 I'm always eager to learn; currently enhancing my skills in Azure, IaC and CI/CD.
 
 💬 Ask me about anything related to the SDLC, Testing, DevOps, Agile and Scrum.
 
