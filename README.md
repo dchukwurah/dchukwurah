@@ -34,9 +34,11 @@
 ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=plastic)
 ![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=plastic)
 
-AI
+🤖 AI 
+
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
 🛠️ Tools and Frameworks
