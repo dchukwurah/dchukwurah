@@ -1,14 +1,14 @@
-### 👋 Hi there, I'm Doz!
+### 👋 Welcome to my page !
 
-👨‍💻 I'm a Consultant in Technology with over 4 years experience in Automation Testing and have also trained as a DevOps Engineer.
+👨‍💻 I'm a Consultant in Technology with over 6 years experience in Automation Testing and some recent training as a DevOps Engineer.
 
 🔭 Keen to work on interesting projects with people who are passionate about delivering quality.
 
-🌱 I'm always eager to learn; currently enhancing my skills in building test frameworks and DevOps methodologies and tools including Azure, IaC and CI/CD.
+🌱 I'm always eager to learn; currently enhancing my skills in building test frameworks with AI assistance as well as verifying AI systems, still maintaining interest in DevOps methodologies and tools including Azure, IaC and CI/CD.
 
 💬 Ask me about anything related to the SDLC, Testing, DevOps, Agile and Scrum.
 
-⚡ Fun fact: I am a musician in my spare time!
+⚡ Fun fact: I know a president 
 
 📫 Connect with me on:
 
