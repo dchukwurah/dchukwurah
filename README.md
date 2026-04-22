@@ -12,7 +12,7 @@
 
 📫 Connect with me on:
 
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/chiedozie-chukwurah-6a6851a0/)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/doz-chukwurah)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](mailto:chukwurahdc@gmail.com)
   
 ---
