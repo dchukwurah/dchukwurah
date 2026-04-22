@@ -8,7 +8,7 @@
 
 💬 Ask me about anything related to the SDLC, Testing, DevOps, Agile and Scrum.
 
-⚡ Fun fact: I know a president 
+⚡ Fun fact: I know a president!
 
 📫 Connect with me on:
 
